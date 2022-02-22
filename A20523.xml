@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctrine of dying-vvell. Or The godly mans guide to glory Wherein is briefly comprised a short view of the glorious estate of Gods saints in the kingdome of heauen. Together with the meanes to obtaine, the markes to know, and the motiues to vrge vs to prepare our selues for Christ, before our soules be vnbodied, lest heauens gate be shut against vs.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20523</idno>
+            <idno type="STC">STC 6934</idno>
+            <idno type="STC">ESTC S105384</idno>
+            <idno type="EEBO-CITATION">99841113</idno>
+            <idno type="PROQUEST">99841113</idno>
+            <idno type="VID">5672</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5672)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 955:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctrine of dying-vvell. Or The godly mans guide to glory Wherein is briefly comprised a short view of the glorious estate of Gods saints in the kingdome of heauen. Together with the meanes to obtaine, the markes to know, and the motiues to vrge vs to prepare our selues for Christ, before our soules be vnbodied, lest heauens gate be shut against vs.</title>
+                  <author>Shawe, George, attributed name.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>[By Miles Flesher] for F. Coules,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1628.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to George Shawe.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Running title reads: The doctrine of dying well. or, A guide to glory.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5672:1"/>
+            <pb facs="tcp:5672:1"/>
+            <p>THE DOCTRINE OF DYING-VVELL. OR The godly mans Guide to Glory.</p>
+            <p>Wherein is briefly compriſed a ſhort view of the glorious eſtate of Gods Saints in the Kingdome of Heauen.</p>
+            <p>
+               <hi>Together with</hi> The Meanes to obtaine, the Markes to know, and the Motiues to vrge vs to prepare our ſelues for Chriſt, be<g ref="char:EOLhyphen"/>fore our ſoules be vnbodied, leſt Heauens gate be ſhut againſt vs.</p>
+            <q>
+               <bibl>Pſal. 73. 24.</bibl> Thou ſhalt guide me with thy counſell, and af<g ref="char:EOLhyphen"/>terwards receiue me to Glory.</q>
+            <q>
+               <bibl>1 Kings 2. 2.</bibl> I goe the way of all the earth.</q>
+            <p>Printed at <hi>London</hi> for <hi>F. Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les.</hi> 1628.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:5672:2"/>
+            <pb facs="tcp:5672:2" rendition="simple:additions"/>
+            <head>The doctrine of dying <hi>well.</hi> Of Death in generall.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat man is he that liueth, and</hi>
+               <note place="margin">Gen. 25. 7. 8. &amp; 35. 28. 29. &amp; 49. 33 &amp; 50. 26. Deut 34. 7. lo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 24 29. 1 Sam<g ref="char:punc">▪</g> 2. 51 1 Kin. 2. 21. 2 Chron. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 28. Iob 42. 17. 2 Sam. 11. 18. 19. Gen. 5. 5. 8. 11. 14. 17, 20. 27. 31. Gen. 5. 24. Heb. 11, 5. Syrac. 44. 16. 2 Kin. 2 11. Syrac. 48. 9 1 Mac. 2. 58. 1 Cor. 15. 30. 31.</note> 
+               <hi>ſhall not ſee death; ſhall hee deliuer his ſoule from the hand of the graue? Pſ. 89 48.</hi> And, <hi>It is appointed vnto men once to dye. Heb. 9. 27. And ſo death paſſed vpon all men, Rom. 5. 12.</hi>
+            </p>
+            <p>
+               <hi>II.</hi> For all men muſt dye. This is cléer by theſe teſtimonies of holy Writ. <hi>Iob. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 23. For I know that thou wilt bring me to death, and to the houſe appointed for al the liuing.</hi> Read <hi>Iob 34. 14. 15. Pſal. 104. 29. Eccles 6. 6. Eſay 40. 6, 7, 8. Iob 14. 2. &amp; 8. 9. Pſal. 102. 11. &amp; 103. 14, 15. &amp; 144. 4. Iames 1. 10. 1 Pet. 1. 24 Iob 17. 13. 14.</hi>
+            </p>
+            <p>
+               <hi>III.</hi> Examples. Death is the lot of all men: for <hi>Abraham</hi> dyed, <hi>Iſaac, Iacob. Io<g ref="char:EOLhyphen"/>ſeph, Moſes, Ioſhua, Samuel, Dauid, Iob.</hi> Young and old, all that haue béene before vs haue dyed, except <hi>Enoch</hi> &amp; <hi>Eliah,</hi> who were tranſlated vp into heauen: and thoſe that now are, or hereafter ſhall be on the
+<pb facs="tcp:5672:3" rendition="simple:additions"/> earth, muſt all dye, except thoſe that ſhal<note place="margin">Theſ. 4. 6. 17.</note> be at the laſt day, who in the twinckling of an eye ſhall bee changed, when the iuſt ſhall be caught vp in the clouds, and be e<g ref="char:EOLhyphen"/>uer with the Lord. 1 <hi>Theſ. 4 16. 17.</hi>
+            </p>
+            <p>
+               <hi>IV.</hi> Reaſons manifeſt. <hi>I.</hi> Reaſon.<note place="margin">
+                  <hi>Reaſons. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Reaſon.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kin. 2. 2. 1 Cor. 15, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 31.</note> 
+               <hi>Ioſh. 23. 14.</hi> becauſe this is the way of all the earth: for euery child of <hi>Adam</hi> is ſub<g ref="char:EOLhyphen"/>iect to death daily. Death is the debt that all men owe &amp; this is the common courſe of all the liuing.</p>
+            <p>
+               <hi>II.</hi> Reaſon. Becauſe all are of the<note place="margin">
+                  <hi>2 Reaſon.</hi> Gen. 3. 19. Iob 4. 19. &amp; 7. 12. 13. Ecel. 12. 7 Iudg. 16. 28</note> duſt, and all turne to the duſt againe: there is not any thing in any earthly creature that can preuent death. Strength cannot withſtand it: for <hi>Samſon</hi> was a mighty ſtrong man, and yet he was ouercome by death. Wiſedome a moſt excellent gift, yet vnable to ſubdue death: for <hi>Salomon</hi>
+               <note place="margin">2 Kin. 11. 43 2 Chron 9. 31. Pſal. 49: 10. Eccl. 2. 16.</note> the wiſeſt of meere men, was diſpatched by death: <hi>for wiſe men dye as well as the fooliſh.</hi> Eloquence is not able to charme death: but the moſt eloquent men that e<g ref="char:EOLhyphen"/>uer liued, haue all dyed, as <hi>Tully</hi> and <hi>De<g ref="char:EOLhyphen"/>moſthenes.</hi> Death ſaith one can find way into. Princes palaces, into the Courts of Kings, as well as into the peſants Cot<g ref="char:EOLhyphen"/>tage: for Magiſtrates are Gods vicege<g ref="char:EOLhyphen"/>rents,
+<pb facs="tcp:5672:3" rendition="simple:additions"/> but yet all mortall, and ſubiect vnto<note place="margin">Pſal. 86. 7.</note> death. Death ſpareth not the beautifull: <hi>Sarah, Rebecca, Rachel, Eſter</hi> and <hi>Berſheba</hi>
+               <note place="margin">Gen, 12. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; 24, 16. &amp; 23. 2. &amp; 29. 17. &amp; 35. 18. 2 Sam. 14 25. 2 Sam. 2. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 50. 51. 2 Sam. 16. 23. &amp; 17. 27. Luk 16. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 22. 23. Pſal 49. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lucan<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> were all beautifull creatures, yet all died, <hi>Abſolon</hi> and <hi>Achilles</hi> were braue gallants yet are dead and gone. <hi>Aſael</hi> was as ſwift as a Roe, yet death ouerwent him. <hi>Goliah</hi> was a great Giant, yet death was grea<g ref="char:EOLhyphen"/>ter then he<g ref="char:punc">▪</g> 
+               <hi>Achitophel</hi> was very politike and ſubtle, yet was ouer-reacht by death: rich and poore all are areſted of death.</p>
+            <p>It is recorded, that among many dead carkaſſes one wold know which was <hi>Phi<g ref="char:EOLhyphen"/>lip</hi> King of <hi>Macedon.</hi> Anſwer was made, he that had the bald head is <hi>Philip.</hi> Al haue bald heads ſaith he. He that hath the flat noſe is <hi>Philip</hi> ſaith the other. All haue flat Noſes ſaith he. Heé that hath the hollow eyes ſaith the other, and that hath the bare ribs, and ratling bones: but all are ſuch &amp; haue ſuch ſaith he. Then ſaith the other, I perceiue there is no difference betwéen the King and the begger in death. In a Eaſt of compters one hath the place of a pound, another of a ſhilling, a third of a peny, and euery one as he that caſts the count ſhall thinke good to lay them: but put them to<g ref="char:EOLhyphen"/>gether into the bag and what difference
+<pb facs="tcp:5672:4" rendition="simple:additions"/> betwéen thoſe that were worth thouſands and thoſe that were worth nothing? Euen ſo, in the common bag the earth, rich and poore are alike: for there is none that can be exempted from the duſt of death.</p>
+            <p>
+               <hi>III.</hi> Reaſon. Becauſe <hi>the w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ges of ſin</hi>
+               <note place="margin">
+                  <hi>3 Reaſon</hi> Mat. 16. 27 Pſal. 62. 12 Prou. 24. 12 I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. 3. 19 Eze. 35. 20. Rom 2. 6. Ezec. 7. 27. 2 Cor. 5. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 Col 3. 25. 1 Pet. 1. Apo. 22. 12. 4 <hi>Reaſon.</hi> Hoſ. 13. 14. Luk. 21. 36 1 Cor. 15. 54. 55. 5 <hi>Reaſon.</hi> 2 Cor. 5. 4. Phil 3. 21. Iob 14. 14. <hi>
+                     <g ref="char:V">Ʋ</g>ſes. 1 Vſe.</hi> 1 Theſ. 4. 13 Apoc. 4. 13. Ioh. 14. 28.</note> 
+               <hi>is death, Rom. 6. 23. And ſo ſinne paſſed vpon all men, for all men haue ſinned. Rom 5. 12.</hi>
+            </p>
+            <p>
+               <hi>IV.</hi> Reaſon. Becauſe the laſt enemy that ſhall be deſtroyed <hi>is death. 1 Cor. 15. 16.</hi>
+            </p>
+            <p>
+               <hi>V.</hi> Reaſon. Becauſe we ſhall be chan<g ref="char:EOLhyphen"/>ged, <hi>1 Cor. 15. 51. &amp;c.</hi>
+            </p>
+            <p>Vſes ſeuerall. <hi>I.</hi> Vſe. That we ſor<g ref="char:EOLhyphen"/>row not euen as others which haue no hope, for when we know that our friends and acquaintance that are dead are de<g ref="char:EOLhyphen"/>parted in the Lord (for <hi>they that die in the Lord are bleſſed)</hi> their death doth rather yéeld cauſe of comfort then of ſorrow, of re<g ref="char:EOLhyphen"/>ioycing rather then mourning: for our <hi>Sa<g ref="char:EOLhyphen"/>uiour</hi> ſaith, <hi>If yee loued mee yee would re<g ref="char:EOLhyphen"/>ioyce becauſe I goe to the Father.</hi> Thoſe then that loue their friends indéed, haue greater cauſe to reioyce then mourne, be<g ref="char:EOLhyphen"/>cauſe they goe to be glorifled with their heauenly Father in heauen.</p>
+            <pb facs="tcp:5672:4" rendition="simple:additions"/>
+            <p>For as a childe or ſimple perſon, that<note place="margin">Simile.</note> ſhould ſée a Goldſmith melting pure Gold or Siluer, would imagine that all were quite ſpoyled, when as the ſkilfull worke<g ref="char:EOLhyphen"/>man hath a purpoſe to caſt ſome excellent péece of plate: euen ſo, we ſilly creatures, whe<g ref="char:cmbAbbrStroke">̄</g> the Lord cuts off ſome of our friends by death, or melteth them in the furnace of the graue, are ouercome with ſorrowful conceits, as if ſome euill thing had betided our friends, whereas we ſhould remember that the Lord hath a purpoſe by that meanes to preſerue them, &amp; to tranſforme into the glorious eſtate with the Angells<note place="margin">M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 18. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 Theſ. 4. 13</note> in ioy in heauen, where they ſhall neuer dye. For as Saint <hi>Paul</hi> ſaith, <hi>I would not haue you ignorant brethren, concerning them that are aſleepe, &amp;c. 1 Theſ. 4 3.</hi> Who<note place="margin">Simile.</note> would be ſorry to haue his friend fall a<g ref="char:EOLhyphen"/>ſléepe ſéeing thereby hée is more freſh, lu<g ref="char:EOLhyphen"/>ſty, and lightſome. Now death vnto the godly is nothing elſe but a ſléepe, whereby<note place="margin">Acts 7. 60.</note> we are refined and refreſhed.</p>
+            <p>Oh then why ſhould wée be offended there with. If our friends be wicked, then haue we iuſt cauſe of mourning, as <hi>Dauid</hi>
+               <note place="margin">2 Sam. 18 <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.</note> had, <hi>2 Sam. 18. 33.</hi> but if we know them to liue and dye in the feare of God, how<g ref="char:EOLhyphen"/>ſoeuer
+<pb facs="tcp:5672:5" rendition="simple:additions"/> naturall affection may haue force to cauſe vs to mourne and ſhed teares, and to lament them in reſpect of the good we haue by them, yet wée haue reaſon to reioyce &amp; be glad for their happy change.</p>
+            <p>For, as if in this world our friends ſhould<note place="margin">Simile.</note> be aduanced to ſome high and honourable place, and be the third in the Kingdome, as <hi>Daniel</hi> was, <hi>Dan. 2. 48.</hi> this would<note place="margin">Dan, 2. 48.</note> much reioyce our hearts. Oh how much more then ſhould we reioyce, when as our friends are deliuered out of this miſerable world by death, and are crowned with glory for euer in the Kingdome of heauen.<note place="margin">2 Theſ. 4 13</note> To conclude this with that of the Apoſtle, <hi>that yee ſorrow not euen as others which haue no hope.</hi>
+            </p>
+            <p>
+               <hi>II.</hi> Vſe. <hi>Luke 12. 40. Bee therefore</hi>
+               <note place="margin">
+                  <hi>2 Vſe.</hi> Luk. 12. 40.</note> 
+               <hi>ready alſo, for the Sonne of man commeth at an houre when yee thinke not.</hi> Briefly, for the better manifeſting this, <hi>viz.</hi> that wée may be ready for Chriſt at his com<g ref="char:EOLhyphen"/>ming, whenſoeuer he ſhall ſummon vs ey<g ref="char:EOLhyphen"/>ther particularly by death, or generally by iudgement, to enter heauens glory, let vs take a ſerious view of theſe particulars which herevpon reſult. 1. The Meanes. 2. the Markes. 3. the Motiues.</p>
+            <pb facs="tcp:5672:5" rendition="simple:additions"/>
+            <p>For the firſt, to wit, the meanes. Oh<note place="margin">Meanes, to help vs to make ready for Chriſt that we may die bleſſedly, diuers.</note> but what meanes muſt I vſe, that I may be ready at Chriſts comming, that ſo I may dye bleſſedly?</p>
+            <p>By a diligent vſe of theſe Meanes.</p>
+            <p n="1">
+               <hi>I.</hi> Meanes is, wée muſt ſeriouſly thinke with our ſelues, that we are but duſt and aſhes, made of clay which is frail and brit<g ref="char:EOLhyphen"/>tle,<note place="margin">
+                  <hi>1 Meanes</hi> Gen. 18. 27 Gen. 3. 19.</note> and this will make vs thinke, that we cannot long continue here, but that our bodies of clay, and our earthly tabernacles muſt néeds be diſſolued, and that <hi>wee haue</hi>
+               <note place="margin">2 Cor. 5. 1. Heb. 13. 14. Iob 4. 19.</note> 
+               <hi>here no continuing Citie. For, our bodies are houſes of clay, and the foundation of them is in the duſt.</hi>
+            </p>
+            <p n="2">
+               <hi>II.</hi> Meanes. We muſt aforehand ac<g ref="char:EOLhyphen"/>quaint<note place="margin">2 Meanes</note> our ſelues with death, and ſo liue, that we be ſtill ready to dye, that ſo wée may ſay with S. <hi>Paul, I dye daily.</hi> Thus<note place="margin">1 Cor. 15. 31. Iob 17. 14.</note> did patient <hi>Iob, If I wait, the graue will be my houſe, I haue made my bed in the dark. &amp;c.</hi> Thus are we to preuent death, as it were, by little and little depriuing our ſelues of life, not by offering violence to our perſons, but by mortifying our earthly<note place="margin">Col 3. 5. Pſal. 119. 37. Pſal. 38. 13.</note> members. Thus ſhould we cauſe our eyes to dye, by turning them away from behol<g ref="char:EOLhyphen"/>ding vanitie. Our eares to be as deafe not
+<pb facs="tcp:5672:6" rendition="simple:additions"/> harkening after the villanies of the wic<g ref="char:EOLhyphen"/>ked world.</p>
+            <p n="3">
+               <hi>III.</hi> Meanes. We muſt lay to heart<note place="margin">3 Meanes</note> the death of others, that ſo our harts may be in the houſe of mourning: for, <hi>It is bet<g ref="char:EOLhyphen"/>ter</hi>
+               <note place="margin">Eccl. 7. 2. 4.</note> 
+               <hi>to goe to the houſe of mourning, then to the houſe of feaſting: for it is the end of all men, and the liuing will lay it to heart.</hi> Therefore if we heare of any that be dead let vs thinke it might haue béene our own turne as well as theirs, and ſo prepare our<note place="margin">Luk 12. 43.</note> ſelues daily for Chriſt that when he com<g ref="char:EOLhyphen"/>meth he may finde vs ſo doing. To which end let vs frequent funerall Sermons, for there may we both ſee with our eyes, and heare with our eares, that which will put vs in minde of our mortalitie and end, for euery graue and tombe be monuments to put vs in minde of death.</p>
+            <p n="4">
+               <hi>IIII.</hi> Meanes is to pray earneſtly, fre<g ref="char:EOLhyphen"/>quently,<note place="margin">
+                  <hi>4 Meanes</hi> Ionah 3. 8. Pſal. 90. 12. Iob 13. 5. Pſal. 39. 4.</note> zealouſly, feruently, and mighti<g ref="char:EOLhyphen"/>ly vnto the Lord, <hi>Ionas 3. 8.</hi> and continu<g ref="char:EOLhyphen"/>ally vnto Almighty God, in the name of Ieſus Chriſt, to <hi>teach vs to number our dayes that wee may apply our hearts vnto wiſedome<g ref="char:punc">▪</g> Pſal 90. 12.</hi>
+            </p>
+            <p>Secondly, the Marks. Oh but by what marks and tokens may we aſſertaine our
+<pb facs="tcp:5672:6" rendition="simple:additions"/> ſelues, that we ſhal be in the glorious ioies<note place="margin">Markes to know cer<g ref="char:EOLhyphen"/>tainly whe<g ref="char:EOLhyphen"/>ther we be ready for Chriſt, to enter hea<g ref="char:EOLhyphen"/>uens glory at the diſ<g ref="char:EOLhyphen"/>ſolution of our vile bodies, diuers. 1 <hi>Marke</hi> Rom. 8. 19. 20. &amp;c. 2 Cor. 5. 6. Pſal 42. 1. 2</note> of heauen, with our ſwéet and bleſſed Sa<g ref="char:EOLhyphen"/>uiour, when our ſoules ſhall be vnbodyed? By theſe markes enſuing.</p>
+            <p n="1">
+               <hi>I</hi> Marke. If it be the earneſt deſire of our hearts to be diſſolued, and to bee with Chriſt Ieſus, <hi>Phil. 1. 21.</hi> and yet in the meane time by faith and hope wait pati<g ref="char:EOLhyphen"/>ently<g ref="char:punc">▪</g> expecting the Lords leiſure, being contented to liue as long as it ſhall pleaſe him, thinking long till wee be at our long home<g ref="char:punc">▪</g> groning within our ſelues, and wai<g ref="char:EOLhyphen"/>ting for the redemption of our bodies, ear<g ref="char:EOLhyphen"/>neſtly longing after the ioyes of heauen, as knowing that whileſt wee are here in the body, we are abſent from the Lord: this longing deſire was in <hi>Dauid. Pſal. 42. 1. 2.</hi>
+            </p>
+            <p n="2">
+               <hi>II.</hi> Marke is, If we dye vnto ſinne dai<g ref="char:EOLhyphen"/>ly,<note place="margin">
+                  <hi>2 Marke</hi> Col. 3. 5. Tit. 2. 11. 12. 13. Gen. 5. 22. 24. &amp; 7. 1. &amp; 17. 1. Gal 6. 16. Pſal. 1. 2.</note> and liue vnto righteouſneſſe, continual<g ref="char:EOLhyphen"/>ly mortifying our earthly members, cruci<g ref="char:EOLhyphen"/>fying our ſinfull corrupt natures, liuing a godly, righteous and lober life, denying all vngodlineſſe and worldly luſts, walking before God in vprightneſſe of heart, ſtri<g ref="char:EOLhyphen"/>uing againſt all the vanities of this ſinfull life, and leading our liues anſwerable to the rule of Gods moſt holy word.</p>
+            <p n="3">
+               <hi>III.</hi> Marke is, if wee haue a moderate<note place="margin">
+                  <hi>3 Marke</hi> 1 Cor. 7. 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp;c.</note>
+               <pb facs="tcp:5672:7"/> vſe of theſe earthly things, obſeruing a mediocritie both in worldly cares &amp; earth<g ref="char:EOLhyphen"/>ly delights, in vſing this world, as not a<g ref="char:EOLhyphen"/>buſing it: for <hi>the faſhion of this world paſ<g ref="char:EOLhyphen"/>ſeth away.</hi>
+            </p>
+            <p n="4">
+               <hi>IV.</hi> Marke is, if we haue our conuerſa<g ref="char:EOLhyphen"/>tion<note place="margin">
+                  <hi>4 Marke</hi> 1 Tim. 6. 19</note> in heauen, laying vp in ſtore a good foundation againſt the time to come: euen treaſure in heauen, ſetting our affections<note place="margin">Mat. 6-20. Col. 3. 1. 2. 3 Tit. 2. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.</note> on things aboue, and not on the things on the earth, looking for the glorious appea<g ref="char:EOLhyphen"/>ring of our Sauiour Ieſus Chriſt.</p>
+            <p>Thirdly, the Motiues. Oh but what be<note place="margin">Motiues to make vs ready for Chriſt ſpee<g ref="char:EOLunhyphen"/>dily, ſundry 1 <hi>Motiue</hi>
+               </note> the motiues to induce vs to long earneſtly for the comming of our Sauiour Ieſus Chriſt.</p>
+            <p>
+               <hi>I.</hi> Motiue is, the ſhortneſſe and breuity of our liues: for our life is compared to the Graſſe that withereth, to a ſhadow that<note place="margin">Eſay 40. 6 1 Pet. 1. 24 Hoſ. 23. 3. Iob 7. 6. &amp; 14. 2. &amp; 7. 9. Iam 4 14. Iob 7. 7. Pſa. 103. 16 &amp; 144. 4. Pſal. 102. 11</note> paſſeth away, to ſmoake that vaniſheth, to a weauers ſhuttle for ſwiftneſſe, to a flo<g ref="char:EOLhyphen"/>wer that ſadeth, to a Spiders web which is eaſily ſwept away, to a vpour which is ſoone diſperſed and to a winde that paſ<g ref="char:EOLhyphen"/>ſeth away.</p>
+            <p>Oh let vs ſeriouſly conſider with our ſelues, that we may be the next parties that muſt dye. Séeing then we may be ſo
+<pb facs="tcp:5672:7" rendition="simple:additions"/> ſuddenly diſpatched by death, Oh what manner of perſons ought wee to bee in all holy conuerſation and godlineſſe.<note place="margin">2 Pet. 3. 11 2 <hi>Motiue</hi>
+               </note>
+            </p>
+            <p>
+               <hi>II.</hi> Motiue. By being ready for Chriſt at his comming, we ſhal be deliuered from all the miſeries of this life, <hi>viz.</hi> from all calamities, as ſickneſſe, paines, labours, reproachings, mockings and taunts of the wicked rabble of vnreaſonable men, and<note place="margin">2 Theſ. 3. 2. 1 Theſ. 1. 10 Eſay 25. 8. Apoc. 7. 16 17. Apo. 14. 13 Apoc. 21. 4. 3 <hi>Motiue</hi> Iohn 14. 3. 1 Iohn 3. 2. Luke 23. 42. 43.</note> from all the prouocations, ſnares, ſtrata<g ref="char:EOLhyphen"/>genis of the Deuill, and from all feare of the paines of hell for euer</p>
+            <p>
+               <hi>III.</hi> Motiue, by being ready prepared for Chriſts comming, wee ſhall be with Chriſt where he is, <hi>viz.</hi> in the Kingdome of heauen, where we ſhal ſée him as hée is, where we ſhall bleſſe the day and houre that euer we were borne: for happy and for euer thrice bleſſed are they, that after this ſhort and fléeting life ended, ſhall en<g ref="char:EOLhyphen"/>ter into heauens glory.</p>
+            <p>This glory of Gods people in heauen will appeare more punctually to vs, if wée take a ſuruey of theſe things, that here upon reſult. To let paſſe many, of ſome few for the reſt, a word or two briefly.</p>
+            <p>2. God will be all in all vnto his chil<g ref="char:EOLhyphen"/>dren in the Kingdome of heauen: for what
+<pb facs="tcp:5672:8" rendition="simple:additions"/> good things ſoeuer the heart of man can with or deſire, that God will be to his chil<g ref="char:EOLhyphen"/>dren there: if we deſire wealth, God will be wealth vnto vs: if honor &amp; pleaſure, he will be honor &amp; pleaſure to vs, yea all in all<note place="margin">1 Cor. 15. 28. Luk. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 32. Ioh. 14. 2. 3 1 Pet. 1. 4-<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> vnto vs: nay euery child of God ſhal haue a kingdome reſerued for them in heauen.</p>
+            <p>2. In heauen wee ſhall want nothing: for we ſhall haue all our wants both in our ſoules and bodies wholly ſupplyed, when<note place="margin">Apoc. 7. 17 Eſa. 49. 10. Apoc. 21. 4. Eſay 25. 8. Apoc. 22. 4. Pſal. 23. 4. 1 Cor. 13. 12. 1 Iohn. 3. 2. Pſal. 16. 11. 1 Theſ. 4. 17 Pſal. 36. 8. 9 &amp; 17. 15. Phil. 3. 21. Eſay 64. 4. Apoc. 7. 9. 10. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 12. 4 <hi>Motiue</hi> Mat. 10. 28.</note> al teares ſhal be wiped from our eies, with fulnes of ioyes and pleaſures for euer. Al<g ref="char:EOLhyphen"/>though in this vale of miſery and ſhadow of death, we ſée God but in pact<g ref="char:punc">▪</g> yet in hea<g ref="char:EOLhyphen"/>uen we ſhal behold him face to face, and ſée him as he is to our euerlaſting comfort.</p>
+            <p>3. In heauen we ſhall be like our Lord Ieſus Chriſt, for he ſhall change our vile bodies, and make them like vnto his glori<g ref="char:EOLhyphen"/>ous body.</p>
+            <p>4. In heauen we ſhal reap endleſſe ioies &amp; happineſſe, where we ſhal wholy delight our ſelues in praiſing God for euer.</p>
+            <p>
+               <hi>IV</hi> And laſt Motiue is drawne from the ineuitable danger that ſhal muſt certainly ouertake vs<g ref="char:punc">▪</g> if we prepare not our ſelues ſpeedily to be ready for Chriſt.</p>
+            <p>If wee be in ſome great mans danger,
+<pb facs="tcp:5672:8" rendition="simple:additions"/> that is able to be reuenged of vs, Oh how doe we créep and crouch vnto him: but we ſhould feare him much more that is able to<note place="margin">Mat. 3. 12.</note> deſtroy both ſoule and body in hell. And if we had hearts to conceiue, and grace to be<g ref="char:EOLhyphen"/>léeue, and minds to think vpon the wofull pains of hell, this would force vs to forſake and renounce all ſin vtterly, and make vs prepare for Chriſt ſpéedily, that ſo we may enter heauens glory immediately. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut a<g ref="char:EOLhyphen"/>las, alas, the power and ſtrength of ſinne nowadaies hath gotten ſuch dominion o<g ref="char:EOLhyphen"/>uer the moſt, that it hath baniſhed &amp; exclu<g ref="char:EOLhyphen"/>ded all loue and feare of God, and al dread of hels miſery out of their harts<g ref="char:punc">▪</g> what elſe mean thoſe raging and ruling vices in the world, as ſwearing, lying, vncleanneſſe, drunkennes, mocking of Gods ſeruants, &amp; ſuch like: if people did ſeriouſly call to minde the grieuous paines of hell, would they liue as they doe? No I trow.</p>
+            <p>There are ſome be ſo tender, that they cannot abide the heat of the Sun, nor the leaſt cold, yea euery ſmall flea or fly diſqui<g ref="char:EOLhyphen"/>ets them, but their many foule iniquities neuer trouble them, to bring them any vn<g ref="char:EOLhyphen"/>erſt, vnleſſe it be to bring their helliſh de<g ref="char:EOLhyphen"/>ſignes to paſſe. Oh that ſuch would conſi<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:5672:9" rendition="simple:additions"/> what it is to fry in vnquenchable<note place="margin">Apoc. 21. 3</note> flames of fire and brimſtone in hel. &amp; there to haue the neuer dying worme of Conſci<g ref="char:EOLhyphen"/>ence to gnaw on them continually.<note place="margin">Marke 9. 43</note>
+            </p>
+            <p>There are a ſort of nice ones that are ſo dainty they cannot abide to looke vpon the ſores of poore <hi>Lazarus</hi> and ſo vnmercifull, that they ſtop their eares at the cry of their poore diſtreſſed brethron, ſeeking rather to moleſt them, then to comfort and help the<g ref="char:cmbAbbrStroke">̄</g>. Oh that ſuch miſerable caitifes would re<g ref="char:EOLhyphen"/>member what a filthy priſon is prepared for the damned in hell, and what yelling &amp; howling the mercileſſe ſhall euer heare, and haue euen iudgment without mercy.</p>
+            <p>There are a ſort of miſerable wretches, to whom the ſernice of God (though indéed perfect fréedome) is moſt irkſome, as to knéele at prayer, to be any thing long at a ſermon, or the like exerciſes: but to ſweare, to ly, to cheat, to cozen in buying &amp; ſelling, to be drunk, and hunt after vaine &amp; wicked pleaſures, is their chiefe delight and ioy.</p>
+            <p>Oh that all miſerable wretched ſwearers, Rorers, &amp; pot companions, would but pre<g ref="char:EOLhyphen"/>meditate of the wofull paines of hell, that they might repent of their ſinnes, and ſo a<g ref="char:EOLhyphen"/>void Hels miſery ſpéedily, and be prepared
+<pb facs="tcp:5672:9" rendition="simple:additions"/> for Chriſt continually, that they may en<g ref="char:EOLhyphen"/>ter heauens glory eternally.</p>
+            <p>And there are another ſort that are like the wicked Phariſes, of whom our Saui<g ref="char:EOLhyphen"/>our<note place="margin">Mat. 23. 13. Luk. 11. 52.</note> ſpeaketh, that will neither goe to hea<g ref="char:EOLhyphen"/>uen themſelues, nor yet will ſuffer by their wils, thoſe that would: elſe what meane all thoſe accurſed ſcoffes, mockes &amp; taunts which the wicked crue blech out of their accurſed breſts againſt all thoſe that ſet their hearts and faces towards Sion, the heauenly Hieruſalem, in traducing, car<g ref="char:EOLhyphen"/>ping, and girding at them, becauſe they will not run headlong to the Deuill with<note place="margin">1 Pet 4. 4. Iohn 8. 34. Rom. 6. 16. 20. 1 Ioh. 3. 8. 10. 2 Pe. 2<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9. 2 Tim. 2. 26. Act. 13. 10. Mat. 23. 33 Act. 8 22. Phil. 3. 19. Luk. 13. 35 Luk. 12. 40 Mat. 24. 13. Mar. 13. 33. Mat. 24. 42</note> them for company, into the ſame exceſſe of riot, therefore they ſpeake euill of them.</p>
+            <p>Oh miſerable ſeruants of ſinne, ſlaues of the Deuill, taken captiue at his will &amp; pleaſure, how long will ye peruert the wayes of God? miſerable wretches, how can ye eſcape the damnation of hell? Oh repent of this your great wickedneſſe, and pray God that the thoughts of your hearts may be forgiuen you: for without true re<g ref="char:EOLhyphen"/>pentance your end will be deſtruction and damnation. It may be this night Death for ought you know may diſpatch you ſud<g ref="char:EOLhyphen"/>denly, before you be prepared for Chriſt:
+<pb facs="tcp:5672:10" rendition="simple:additions"/> and then wofull and miſerable will your eſtate be: it had béene good for you, that<note place="margin">Mat. 26. 24</note> ye had neuer béene borne. Oh that all the rabblement of the wicked crue, would ſe<g ref="char:EOLhyphen"/>riouſly thinke of hell, and be forewarned now whileſt it is called to day, and that<note place="margin">Heb. 3 15. Lu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 28 verſ. 26.</note> with all expedition, leſt they come into the place of hels torments, from whence is no redemption. This would be a ſtrong motiue vnto them, if they had but any dramme of true grace in their hearts, it would bridle and curbe their leud affecti<g ref="char:EOLhyphen"/>ons, and dry vp the fountaine of their fil<g ref="char:EOLhyphen"/>thy words, change the vaine courſe of their conuerſation, and make them willing to ſubmit the<g ref="char:cmbAbbrStroke">̄</g>ſelues to any good courſe what<g ref="char:EOLhyphen"/>ſoeuer, ſo that they may auoid the bitter torments of hell.</p>
+            <p>If a man haue but ſome extremitie of<note place="margin">Simile.</note> the Gout, Collicke or Tooth ache, what paines and coſt will he be at to be eaſed? Oh what are theſe to the endleſſe, eaſe<g ref="char:EOLhyphen"/>leſſe, remedileſſe paines of hell? yet few there are that will beſtow the coſt and paines to auoid them. Oh that all the re<g ref="char:EOLhyphen"/>uell rout of beaſtly drunkards, and all o<g ref="char:EOLhyphen"/>ther impenitent perſons, would but medi<g ref="char:EOLhyphen"/>tate ſeriouſly a little vpon <hi>Diues</hi> in Hell,
+<pb facs="tcp:5672:10" rendition="simple:additions"/> how that for one drop of water to coole his tongue, he cryes moſt bitterly in the gulph of hell for the obtaining of it, and yet go<g ref="char:EOLhyphen"/>eth without it. Oh that all this that hath<note place="margin">Luk. 25 26.</note> béene ſaid, would cauſe euery miſerable wretch in the world, that heares or reades of the moſt wofull torments of hell, with all prayers and teares of true repentance, to worke out their ſaluation in the feare<note place="margin">2 Cor. 7. 1.</note> of God.</p>
+            <p>Heare what St. <hi>Chriſoſtome</hi> ſpeaketh<note place="margin">Chriſoſt. in 2 Epiſt. ad Corin. hom. 10</note> to this purpoſe, If thou, ſaith he, ſhouldeſt come into a loathſome priſon and there ſée ſome looke pale and wan, others hungry and thirſty, others bound in chaines and fetters, others ſhut vp in a darke and fil<g ref="char:EOLhyphen"/>thy dungeon, making pittious moane and lamentation, would it not moue thy heart with commiſeration, and cauſe thee carefully to avoid thoſe courſes that might bring thee to the like danger: oh the<g ref="char:cmbAbbrStroke">̄</g> think vpon the priſon and dungeon of hell, and confider ſeriouſly with your ſelues, oh miſerable wretches, how many poore ſoules looke pittifully there, how many are bound ſtrongly there in the deuils fet<g ref="char:EOLhyphen"/>ters, how many are ſhut vp in the place of vtter darkneſſe, and being in, continual<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:5672:11" rendition="simple:additions"/> tormented with foule and vgly diuels in hell, doe nothing but weepe and waile and gnaſh their teeth for euermore in ex<g ref="char:EOLhyphen"/>tremitie of paine: oh what madneſſe is this in euery one of vs all, if in this our pilgrimage or trauel on the earth we ſpend our dayes in pleaſu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, bathe our ſelues in ſports and paſtimes, ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king and caring for the things of this life, &amp; neuer bethink our ſelues as to ſay <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>las <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doe I now, eate, drinke, mock, ſweare, cozen, cheat, whore, and bathe my ſelfe in all kinde of lewd courſes, but woe is mee for <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt come to iudgement for all theſe things, <hi>to giue a ſtrict account of all thoſe things that I haue done in my vile body, whether it be good or euill, Eccleſ. 11. 9. 2 Cor. 5. 10. Eccleſ. 12. 14. Mat. 12.</hi> to cloſe vp this, <hi>Luke 12. 40. Bee therefore ready for the Sonne of man commeth alſo at an houre when yee thinke not.</hi>
+            </p>
+            <p>
+               <hi>III</hi> Vſe. <hi>Apoc. 14. 13. Bleſſed are the</hi>
+               <note place="margin">3 <g ref="char:V">Ʋ</g>ſe.</note> 
+               <hi>dead that die in the Lord, &amp;c.</hi> Not to ſtay long on this, let theſe things that are here inbalmed be had in remembrance briefly: 1 They are bleſſed in reſpect of the place, for if we conſider the world wherein we liue, it is but a priſon, a vale of miſery, a
+<pb facs="tcp:5672:11" rendition="simple:additions"/> place of vexation and trouble, as the bleſ<g ref="char:EOLhyphen"/>ſed Apoſtle teſtifieth in <hi>Rom. 8. 22. but heauen is a place of ioy, reſt and comfort, Iohn 14. 16. The world is of no certaine continuance, here wee haue no abiding City, but we looke for one to come, Heb. 13. 14. but in heauen is a place of continu<g ref="char:EOLhyphen"/>ance, for the foundatio<g ref="char:cmbAbbrStroke">̄</g> is God, Heb. 11. 10</hi> 2 They are bleſſed in regard of their com<g ref="char:EOLhyphen"/>panions, for here we liue among wicked, godleſſe, ſinfull wretches, but there wee ſhall enioy the company of innumerable Saints in heauen. It was an excellent<note place="margin">Dan. 7 9. Heb. 12. 22. Apoc. 5. 11 Heb. 12. 11. Apoc. 7. 19, 10, 11. 12. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sam 9. 3. to 27. &amp; 10. 1. 1 Sam. 16. 11, 12. 13 2 Sam. 7. 8. Apoc. 22. 5. Apoc. 21. 4. Mat. 6. 20.</note> exchange for <hi>Saul</hi> when hee was ſeeking his fathers Aſſes to be called to be a King: ſo it was an excellent exchange for <hi>Dauid</hi> when he was called from a ſhepheard to be a King. Oh, yet this is nothing to their eſtate which are called from this miſerable world to heauen, where there is light without darkneſſe, ioy without ſorrow, riches without corruption, and all with<g ref="char:EOLhyphen"/>out ending: yea wiſedome without igno<g ref="char:EOLhyphen"/>rance, vnderſtanding without error, rea<g ref="char:EOLhyphen"/>ſon without obſcurity, memory without obliuion, where whatſoeuer ſhall bee deſi<g ref="char:EOLhyphen"/>red ſhall be obtained, where <hi>wee ſhall ſee God face to face, 1 Cor. 31. 12. euen as he is,
+<pb facs="tcp:5672:12" rendition="simple:additions"/> 1 Ioh. 3. 2. to our euerlaſting comfort world without end.</hi> 3 They are bleſſed becauſe<note place="margin">III.</note> of their condition, for they reſt from all their labours: for they that die in the<note place="margin">APoc. 14. 10. 1 Theſ. 4. 18. Phil. 1. 23. Phil. 1. 22.</note> Lord are for the Lord. This made Saint <hi>Paul deſire to be diſſolued and to bee with Chriſt:</hi> death conſidered in Chriſt and ioy<g ref="char:EOLhyphen"/>ned with a godly life, to Gods Elect is an aduantage: death to the godly is nothing elſe but a bridge ouer this tempeſtuous ſea of this troubleſome world to paradiſe, Gods mercy made it not by making death in it ſelf good but an inſtrument of good to his. Oh why ſhall wee then be vnwilling to dye, for death doth not ſeparate vs from God, but it makes vs draw neere to God, as <hi>Pharaohs</hi> Butler could not ſee the face<note place="margin">Gen. 40. 21</note> of the King when as hee was in priſon,<note place="margin">1 Cor. 13.</note> but being looſed from his bonds, hee both ſaw him, and gaue the cup into his hand. So long as our ſoules be in the priſon of our bodies we cannot ſee the face of God,<note place="margin">Eſay 64. 4 1 Cor 2. 9. 1 Cor. 1<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.</note> but our ſoules being once looſed from our bodies we ſhal ſee God face to face, and in<g ref="char:EOLhyphen"/>ioy that vnſpeakable good which God hath prepared for all them that loue him: doſt thou feare God ſincerely, oh then feare not death for the ſting of death; is
+<pb facs="tcp:5672:12" rendition="simple:additions"/> taken away from thee by Chriſt. If one enemy finde fauour at another enemies hand, oh why then ſhould a dutifull child feare to goe home to his heauenly father, and a penitent ſinner to goe to his ſwéete Sauiour: if Chriſt came into this world to redéeme vs, oh why ſhould wee doubt but at our death he will receiue vs, he that bought vs at ſo deare a rate euen with his owne blood, which is moſt precious, will<note place="margin">Act. 20. 28. 1 Pet. 1. 18.</note> he refuſe his penny worth? if he affected our company ſo much on earth, as that he ſaid, <hi>my delight is to bee with the children of men, Pro 8. 23.</hi> Hath he now ſo forgotten his old loue as not to admit vs into his company in heauen, ſeeing hee went thi<g ref="char:EOLhyphen"/>ther to prepare a place for vs? oh let vs<note place="margin">Ioh. 14. 22.</note> then ſurrender our ſoules &amp; bodies vp vnto God as a faithfull Creator. <hi>1 Pet. 4. 19.</hi> To conclude <hi>Apoc. 14. 13. Bleſſed are the dead that dye in the Lord.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
